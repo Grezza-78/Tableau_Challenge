@@ -1,6 +1,6 @@
 # Tableau_Challenge - Citi Bike Analysis
 
-As the lead analyst for the New York Citi Bike program, I have been tasked to taken on the analysis of the program by implementing a comprehensive dashboard and advanced reporting process to share information with City officials who have inquiries about the program. By leveraging creating insightful reports, I hope to contribute to the program's growth and success, and assist city officials in making informed decisions, improving the program, and further promoting its benefits to the public.
+As the lead analyst for the New York Citi Bike program, I have been tasked with analysing the program by implementing a comprehensive dashboard and advanced reporting process to share information with City officials who have inquiries about the program. By leveraging and creating insightful reports, I hope to contribute to the program's growth and success, and assist city officials in making informed decisions, improving the program, and further promoting its benefits to the public.
 
 ## The Challenge
 
@@ -8,8 +8,6 @@ As the lead analyst for the New York Citi Bike program, I have been tasked to ta
 * 2 : Use visualisations to design a dashboard for each phenomenon. The dashboards should be accompanied by an analysis explaining why the phenomenon may be occurring.
 * 3 : Create a dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 * 4 : Create a final presentation using a Tableau Story
-
-**[Click Here to dive into the Analysis](https://github.com/Grezza-78/Tableau_Challenge/blob/main/Citi%20Bike%20Trip%20Analysis.pdf)**
 
 ## Data Source 
 
@@ -27,3 +25,7 @@ As the lead analyst for the New York Citi Bike program, I have been tasked to ta
 * 3 : **Station Analysis** emphasizes the analysis of trips concerning the bike stations. It compares the patterns of trips between weekdays and weekends, and between stations, offering valuable insights into the variations in usage.
 
 * 4 : **Map Analysis** showcases two dynamics maps that highlight the geographic locations of both the start and end stations. The markers on the maps are sized and colored based on the total number of trips originating from or terminating at each station. This visual representation effectively illustrates the trip patterns and frequency, enabling a clear understanding of the data at a glance.
+
+**[Click Here for the Dashboard Analysis](https://public.tableau.com/views/GMeadon_CitiBike_Viz/Home?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
+
+**[Click Here for the Summary Analysis](https://github.com/Grezza-78/Tableau_Challenge/blob/main/Citi%20Bike%20Trip%20Analysis.pdf)**
