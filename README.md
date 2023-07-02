@@ -9,7 +9,7 @@ As the lead analyst for the New York Citi Bike program, I have been tasked to ta
 * 3 : Create a dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 * 4 : Create a final presentation using a Tableau Story
 
-**[Click Here to dive into the Analysis]**
+**[Click Here to dive into the Analysis](https://github.com/Grezza-78/Tableau_Challenge/blob/main/Citi%20Bike%20Trip%20Analysis.pdf)**
 
 ## Data Source 
 
