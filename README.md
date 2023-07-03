@@ -28,4 +28,4 @@ As the lead analyst for the New York Citi Bike program, I have been tasked with 
 
 **[Click Here for the Dashboard Analysis](https://public.tableau.com/views/GMeadon_CitiBike_Viz/Home?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
 
-**[Click Here for the Summary Analysis ans Conclusion](https://github.com/Grezza-78/Tableau_Challenge/blob/main/Citi%20Bike%20Trip%20Analysis.pdf)**
+**[Click Here for the Summary Analysis and Conclusion](https://github.com/Grezza-78/Tableau_Challenge/blob/main/Citi%20Bike%20Trip%20Analysis.pdf)**
